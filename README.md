@@ -1,8 +1,14 @@
-### Hi there 👋
+### Solve.ac
 [![Solved.ac](http://mazassumnida.wtf/api/mini/generate_badge?boj=kangssun)](https://solved.ac/kangssun)
+
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=kangssun&theme=dark)
+
+
+
 <!--
 **GangSSun/GangSSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Blog
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://gangssun.tistory.com/")
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
